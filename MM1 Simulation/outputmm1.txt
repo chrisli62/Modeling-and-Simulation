@@ -1,0 +1,98 @@
+Name                            : Christopher Li
+Arriving Customer 1             : 7.859450855705088seconds
+Serving Customer 1              : 3.2428520294931444seconds
+Arriving Customer 2             : 7.694052527426551seconds
+Serving Customer 2              : 2.1724249049881608seconds
+Arriving Customer 3             : 12.520420069630745seconds
+Serving Customer 3              : 17.824489285856572seconds
+Arriving Customer 4             : 2.286281322899522seconds
+Serving Customer 4              : 6.1613030307884635seconds
+Arriving Customer 5             : 5.858252835916319seconds
+Serving Customer 5              : 0.819764981316055seconds
+Arriving Customer 6             : 5.138935031594345seconds
+Serving Customer 6              : 2.7921450367561156seconds
+Arriving Customer 7             : 1.8245432324048214seconds
+Serving Customer 7              : 6.608070882235856seconds
+Arriving Customer 8             : 5.408866120325835seconds
+Serving Customer 8              : 6.6191528332504905seconds
+Arriving Customer 9             : 0.8209754259609199seconds
+Serving Customer 9              : 2.8616541801786077seconds
+Arriving Customer 10            : 5.872570072575684seconds
+Serving Customer 10             : 3.8294500806577725seconds
+Arriving Customer 11            : 7.798492309380845seconds
+Serving Customer 11             : 4.135036038900216seconds
+Arriving Customer 12            : 15.489480241274016seconds
+Serving Customer 12             : 3.5047340782942054seconds
+Arriving Customer 13            : 0.15591001007443342seconds
+Serving Customer 13             : 8.984482536931054seconds
+Arriving Customer 14            : 2.6974355146971045seconds
+Serving Customer 14             : 1.3961233872579284seconds
+Arriving Customer 15            : 19.769175300237315seconds
+Serving Customer 15             : 0.08411564747214696seconds
+Arriving Customer 16            : 15.789238258439601seconds
+Serving Customer 16             : 1.3210309931388873seconds
+Arriving Customer 17            : 0.0532931184884043seconds
+Serving Customer 17             : 2.6598785315120588seconds
+Arriving Customer 18            : 0.23923009950718407seconds
+Serving Customer 18             : 0.4998723581407891seconds
+Arriving Customer 19            : 0.05811392892520319seconds
+Serving Customer 19             : 1.4279804993047542seconds
+Arriving Customer 20            : 3.5576132928745117seconds
+Serving Customer 20             : 4.540492545159857seconds
+Customer 100
+Average Arrival Time            : 6.397117175327239 seconds
+Average Service Time            : 4.455467893532628 seconds
+Average Delay                   : 6.580659183941578 seconds
+Average Wait Time               : 11.033805072303142 seconds
+Customer 200
+Average Arrival Time            : 6.163005280258545 seconds
+Average Service Time            : 4.613883259205781 seconds
+Average Delay                   : 13.655320869830529 seconds
+Average Wait Time               : 18.268048960634637 seconds
+Customer 300
+Average Arrival Time            : 6.408249002126773 seconds
+Average Service Time            : 4.505905873534683 seconds
+Average Delay                   : 10.742402056810397 seconds
+Average Wait Time               : 15.247539105890455 seconds
+Customer 400
+Average Arrival Time            : 6.163512185403383 seconds
+Average Service Time            : 4.790096309457234 seconds
+Average Delay                   : 23.407420313130398 seconds
+Average Wait Time               : 28.196940485966234 seconds
+Customer 500
+Average Arrival Time            : 6.096852420371794 seconds
+Average Service Time            : 4.774987638594004 seconds
+Average Delay                   : 21.808433668908535 seconds
+Average Wait Time               : 26.58296062912193 seconds
+Customer 600
+Average Arrival Time            : 5.921800296065944 seconds
+Average Service Time            : 4.814932628427618 seconds
+Average Delay                   : 22.179783452471284 seconds
+Average Wait Time               : 26.994332310428234 seconds
+Customer 700
+Average Arrival Time            : 5.9149071445978265 seconds
+Average Service Time            : 4.824486895120808 seconds
+Average Delay                   : 26.820133985799416 seconds
+Average Wait Time               : 31.644292013235034 seconds
+Customer 800
+Average Arrival Time            : 5.799661663791369 seconds
+Average Service Time            : 4.849719324809631 seconds
+Average Delay                   : 26.308898150173253 seconds
+Average Wait Time               : 31.15832976720823 seconds
+Customer 900
+Average Arrival Time            : 5.785244262535022 seconds
+Average Service Time            : 4.8747146570738815 seconds
+Average Delay                   : 25.512322628235612 seconds
+Average Wait Time               : 30.386781580624326 seconds
+Customer 1000
+Average Arrival Time            : 5.920094240620024 seconds
+Average Service Time            : 4.90489751837849 seconds
+Average Delay                   : 25.24286472921591 seconds
+Average Wait Time               : 30.1475321389738 seconds
+Busy Period 1                   : 5915.449425695331 seconds
+Number of Delays                : 832
+Services                        : 1000 jobs
+Average Arrival Time            : 5.91 seconds
+Average Service Time            : 4.90 seconds
+Average Delay                   : 25.22 seconds
+Average Wait Time               : 30.12 seconds

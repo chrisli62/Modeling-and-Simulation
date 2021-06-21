@@ -1,0 +1,48 @@
+Name                            : Christopher Li
+Arriving Customer 1             : 2.0554680052888106seconds
+Serving Customer 1              : 2.231586900051882seconds
+Arriving Customer 2             : 10.175905601626047seconds
+Serving Customer 2              : 2.588597185571283seconds
+Arriving Customer 3             : 2.1555475456921998seconds
+Serving Customer 3              : 1.2689157989676585seconds
+Arriving Customer 4             : 1.3768653403010118seconds
+Serving Customer 4              : 10.67064309166094seconds
+Arriving Customer 5             : 16.77360470947082seconds
+Serving Customer 5              : 0.3116098412272742seconds
+Arriving Customer 6             : 4.124079038579534seconds
+Serving Customer 6              : 2.8797256450142497seconds
+Arriving Customer 7             : 9.614478267865142seconds
+Serving Customer 7              : 6.87041156180321seconds
+Arriving Customer 8             : 5.42864516564423seconds
+Serving Customer 8              : 28.452652914483487seconds
+Arriving Customer 9             : 17.26369852014466seconds
+Serving Customer 9              : 0.8985782181963979seconds
+Arriving Customer 10            : 2.555134813567038seconds
+Serving Customer 10             : 4.373660165342464seconds
+Arriving Customer 11            : 0.124876294839949seconds
+Serving Customer 11             : 3.5757794584801665seconds
+Arriving Customer 12            : 0.6298726311596111seconds
+Serving Customer 12             : 16.47826815072554seconds
+Arriving Customer 13            : 17.800732831940806seconds
+Serving Customer 13             : 4.619439173317518seconds
+Arriving Customer 14            : 1.4745523357996564seconds
+Serving Customer 14             : 2.2196459199225096seconds
+Arriving Customer 15            : 1.5607141953355084seconds
+Serving Customer 15             : 7.259585748859041seconds
+Arriving Customer 16            : 1.8373129685005731seconds
+Serving Customer 16             : 11.922608084153492seconds
+Arriving Customer 17            : 24.879915615353426seconds
+Serving Customer 17             : 0.2885125064025662seconds
+Arriving Customer 18            : 0.49825140426062364seconds
+Serving Customer 18             : 8.853286625004618seconds
+Arriving Customer 19            : 13.374049800728178seconds
+Serving Customer 19             : 1.4319991343644762seconds
+Arriving Customer 20            : 6.13142884086168seconds
+Serving Customer 20             : 4.251519749190027seconds
+Busy Period 1                   : 5078.9266790764505 seconds
+Number of Delays                : 969
+Services                        : 1000 jobs
+Average Arrival Time            : 5.08 seconds
+Average Service Time            : 4.91 seconds
+Average Delay                   : 97.87 seconds
+Average Wait Time               : 102.78 seconds

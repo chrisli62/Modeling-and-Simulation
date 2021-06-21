@@ -1,0 +1,5 @@
+Name: Christopher Li
+Enter the number of rolls you would like to perform: 
+10000000
+1514.264027766848
+NUMBER OF HITS: 5088783
